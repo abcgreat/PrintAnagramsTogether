@@ -1,0 +1,6 @@
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\PrintAnagramsTogether\bin\Debug\PrintAnagramsTogether.exe.config
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\PrintAnagramsTogether\bin\Debug\PrintAnagramsTogether.exe
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\PrintAnagramsTogether\bin\Debug\PrintAnagramsTogether.pdb
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\PrintAnagramsTogether\obj\Debug\PrintAnagramsTogether.exe
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\PrintAnagramsTogether\obj\Debug\PrintAnagramsTogether.pdb
+c:\users\abcgreat\documents\visual studio 2015\Projects\CodingPractice\PrintAnagramsTogether\obj\Debug\PrintAnagramsTogether.csprojResolveAssemblyReference.cache
